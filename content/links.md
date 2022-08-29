@@ -34,8 +34,8 @@ showbreadcrumbs: false
 
 |        |                                   |
 | ------ | --------------------------------- |
-| 名称： | Sulv's Blog                       |
-| 网址： | https://www.sulvblog.cn           |
+| 名称： | Pihang's Blog                       |
+| 网址参照： | https://www.sulvblog.cn           |
 | 图标： | https://www.sulvblog.cn/img/Q.gif |
 | 描述： | 一个记录技术、阅读、生活的博客    |
 
@@ -49,9 +49,9 @@ showbreadcrumbs: false
 
 <br/>
 
-<div style="font-size: 20px;">👉Hugo博客交流群</div>
+<!-- <div style="font-size: 20px;">👉Hugo博客交流群</div>
 
-> 787018782
+> 787018782 -->
 
 
 

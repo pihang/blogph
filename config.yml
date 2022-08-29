@@ -1,7 +1,7 @@
-baseURL: https://www.sulvblog.cn
+baseURL: https://phpgf.work/
 # baseURL: https://www.sulvblog.cn  # 绑定的域名
 languageCode: zh-cn # en-us
-title: Sulv's Blog
+title: Pihang's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -91,8 +91,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Sulv的个人博客，hugo，papermod，golang，mysql，redis，微服务"
-    author: Sulv
+    description: "Pihang的个人博客，hugo，papermod，golang，mysql，redis，微服务"
+    author: Pihang
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto  # defaultTheme: light or  dark 
@@ -117,26 +117,26 @@ params:
     comments: true
     socialIcons:
         - name: github
-          url: "https://github.com/xyming108"
-        - name: twitter
-          url:  "img/twitter.png"
-        - name: facebook
-          url: "https://www.facebook.com/profile.php?id=100027782410997"
-        - name: instagram
-          url: "img/instagram.png"
+          url: "https://github.com/pihang"
+        # - name: twitter
+        #   url:  "img/twitter.png"
+        # - name: facebook
+        #   url: "https://www.facebook.com/profile.php?id=100027782410997"
+        # - name: instagram
+        #   url: "img/instagram.png"
         - name: QQ
-          url: "img/qq.png"
+          url: "img/qq.jpg"
         - name: WeChat
           url: "img/wechat.png"
-        - name: bilibili
-          url: "https://space.bilibili.com/234461224"
+        # - name: bilibili
+        #   url: "https://space.bilibili.com/234461224"
         - name: email
-          url: "mailto:1931559710@qq.com"
+          url: "mailto:1274168976@qq.com"
         - name: RSS
           url: "index.xml"
 
     label:
-        text: "Sulv's Blog"
+        text: "Pihang's Blog"
         icon: "img/Q.gif"
         iconHeight: 35
 
