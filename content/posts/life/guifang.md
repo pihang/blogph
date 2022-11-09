@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "我家小猪"
+date: 2022-08-29T13:22:23+08:00
+lastmod: 2022-08-29T13:22:23+08:00
 author: ["Pihang"]
 keywords: 
 - 
@@ -28,6 +28,10 @@ cover:
     relative: false
 ---
 
+我家有个桂芳小猪猪~  
+她从来也不急  
+有一天她出门上学  
+忘记拿伞了
 
 
 
